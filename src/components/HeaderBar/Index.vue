@@ -2,9 +2,13 @@
     <div>
         <b-navbar type="dark" variant="dark">
 
-            <b-navbar-nav>
+            <b-navbar-nav class="px-5">
 
-                <b-nav-item href="#">Retax Blog 😎</b-nav-item>
+                <router-link 
+                    to="/"
+                >
+                    <b-nav-text>Retax Blog 😎</b-nav-text>
+                </router-link>
 
             </b-navbar-nav>
 

@@ -3,7 +3,7 @@
   
       <HeaderBar/>
   
-      <!-- <router-view/> -->
+      <router-view/>
   
       <FooterBar/>
   
